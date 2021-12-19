@@ -1,14 +1,13 @@
-import "./App.scss";
-import './core/styles/custom.scss';
-import Navbar from "pages/component/Navbar";
+import './App.scss';
+import './assets/styles/custom.scss';
+import Navbar from 'component/Navbar';
 
-
-function App() {
+const App = () => {
   return (
     <div>
       <Navbar />
     </div>
   );
-}
+};
 
 export default App;

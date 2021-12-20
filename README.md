@@ -1,4 +1,4 @@
-# movieflix-backend-tests
+# Projeto Movieflix
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/wmazoni/movieflix-backend-tests/blob/main/LICENSE) 
 
 # Sobre o projeto

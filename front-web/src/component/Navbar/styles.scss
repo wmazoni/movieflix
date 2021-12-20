@@ -5,7 +5,7 @@
   display: flex;
   justify-content: space-between;
   flex-direction: row;
-  padding: 18px 61px 17px 49px;
+  padding: 18px;
 }
 
 .nav-text {
@@ -15,4 +15,16 @@
   line-height: 33px;
   letter-spacing: -0.015em;
   color: #000000;
+}
+
+@media (min-width: 576px) {
+  .main-nav {
+    width: 100% !important;
+    height: 68px;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 18px 61px 17px 49px;
+  }
 }

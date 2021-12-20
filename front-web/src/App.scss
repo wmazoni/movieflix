@@ -8,3 +8,25 @@ h1, h2, h3, h4, h5, h5 {
   font-weight: 700;
   margin-bottom: 0px;
 }
+
+.base-card {
+  background-color: #6C6C6C;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+}
+
+.base-input {
+  border-radius: 4px !important;
+  font-size: 1em !important;
+  box-sizing: border-box !important;
+  background-color: #FEFEFE !important;
+  height: 50px;
+  justify-content: center !important;
+  align-items: center !important;
+  border: 1px solid #FEFEFE !important;
+}
+ 
+.base-input::placeholder {
+  color: #9E9E9E !important;
+}
+

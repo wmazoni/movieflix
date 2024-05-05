@@ -23,13 +23,8 @@ https://www.figma.com/file/cOjZ9zvM7U9hrZrL3AReSA/Desafio-MovieFlix?node-id=0%3A
 ## Front end
 - [ ] HTML / CSS / JS / TypeScript
 - [ ] ReactJS
-- [ ] React Native
-- [ ] Apex Charts
-- [ ] Expo
-## Implantação em produção
-- [ ] Back end: AWS
-- [ ] Front end web: AWS
-- [ ] Banco de dados: Postgresql
+- [ ] React Hook Forms
+- [ ] Bootstrap
 
 # Como executar o projeto
 

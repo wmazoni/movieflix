@@ -17,3 +17,19 @@
   padding-left: 15px;
   padding-right: 15px;
 }
+
+.alert-danger {
+  background-color: #FEFEFE;
+  border-color: #FEFEFE;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.alert {
+  justify-content: space-around;
+  display: flex; 
+}
+
+.invalid-feedback {
+  color: #2a0004;
+}
